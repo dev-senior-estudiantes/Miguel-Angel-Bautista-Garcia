@@ -1,4 +1,4 @@
-# Evaluación Automática - Módulo 1 Java
+# Evaluación - Módulo 1 Java
 
 ---
 
